@@ -27,7 +27,7 @@
 
 ## <br/><br/><br/><br/>📈 Github Status:
 <div align= "center">
-  <img height= "145" src="https://github-readme-stats.vercel.app/api?username=sajjadista&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&hide=issues" />
-  <img height= "145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadista&theme=algolia&layout=compact&count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sajjadista&theme=algolia&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadista&theme=algolia&layout=compact&count_private=true" />
 </div>
 
