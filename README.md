@@ -1,4 +1,4 @@
-## <img src="https://github.com/sajjadista/sajjadista/blob/main/logos/hi.gif" width="30px"> Hello there, I'm Sajjad.
+## <img src="https://github.com/sajjadista/sajjadista/blob/main/logos/hi.gif" height="30" width="30px"> Hello there, I'm Sajjad.
 
 ## 🧐 About me
 - 🎓 I am currently studying Software Engineering at Universiti Putra Malaysia.
